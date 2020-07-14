@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Projects" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Translator_Postman_Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Translator_Postman_Python1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Translator_Postman_Python2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ig-followers" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/python" vcs="Git" />
